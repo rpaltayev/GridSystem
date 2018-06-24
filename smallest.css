@@ -1,0 +1,205 @@
+.wrapper {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      grid-auto-rows: minmax(20px, auto);
+      grid-gap: 20px;
+    }
+    .Box12 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/5;
+    }
+    .Box6-1 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/3;
+    }
+    .Box6-2 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/5;
+    }
+    .Box4-1 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/3;
+    }
+    .Box4-2 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/5;
+    }
+    .Box4-3 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/5;
+    }
+
+    .Box3-1 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/3;
+    }
+    .Box3-2 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/5;
+    }
+    .Box3-3 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/3;
+    }
+    .Box3-4 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/5;
+    }
+
+    .Box2-1 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/3;
+    }
+    .Box2-2 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/5;
+    }
+    .Box2-3 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/3;
+    }
+    .Box2-4 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/5;
+    }
+    .Box2-5 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/3;
+    }
+    .Box2-6 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/5;
+    }
+
+    .Box1-1 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/2;
+    }
+    .Box1-2 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 2/3;
+    }
+    .Box1-3 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/4;
+    }
+    .Box1-4 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 4/5;
+    }
+    .Box1-5 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/2;
+    }
+    .Box1-6 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 2/3;
+    }
+    .Box1-7 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/4;
+    }
+    .Box1-8 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 4/5;
+    }
+    .Box1-9 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 1/2;
+    }
+    .Box1-10 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 2/3;
+    }
+    .Box1-11 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 3/4;
+    }
+    .Box1-12 {
+      background-color: white;
+      padding: 1em;
+      border-radius: 3px;
+      box-shadow: 0 1px 1px rgba(0,0,0,.3);
+      grid-column: 4/5;
+    }
